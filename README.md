@@ -10,7 +10,7 @@
 - 使用前请先备份存档。
 - 本工具不是官方内容，游戏更新后可能失效。
 - 本工具免费提供，禁止售卖、广告分发、付费打包或冒充作者。
-- 如果 Windows 或杀毒软件提示未知程序，这是因为工具没有代码签名。请确保你的文件是直接从 GitHub Releases 发布页下载：https://github.com/XXLBABY/Diplomacy_is_Not_an_Option_Trainer/releases
+- 如果 Windows 或杀毒软件提示未知程序，这是因为工具没有代码签名。请确保你的文件是直接从 GitHub Releases 发布页下载(最新)版：[GitHub Releases Latest](https://github.com/XXLBABY/Diplomacy_is_Not_an_Option_Trainer/releases/latest)
 
 ## 需要准备什么
 
