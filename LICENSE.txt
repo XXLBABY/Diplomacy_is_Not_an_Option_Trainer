@@ -1,0 +1,46 @@
+DNO Trainer Non-Commercial License v1.0
+
+Copyright (c) 2026 DNO Trainer contributors.
+
+This project is an unofficial trainer/modding tool for the single-player game
+"Diplomacy is Not an Option". It is not affiliated with, endorsed by, or
+supported by the game developers or publishers.
+
+Permission is granted, free of charge, to use, copy, study, modify, and share
+this software and its source code for personal, educational, and non-commercial
+purposes, subject to the conditions below.
+
+You may:
+
+1. Use the software for personal single-player/offline gameplay.
+2. Study the source code.
+3. Modify the software for your own non-commercial use.
+4. Share unmodified copies for free, as long as this license and attribution
+   remain included.
+5. Share modified copies for free, as long as you clearly state that the copy
+   is modified and keep this license and attribution included.
+
+You may not:
+
+1. Sell this software, modified versions, installers, repacks, or access to it.
+2. Bundle this software with advertisements, paid download gates, paid
+   launchers, subscription services, or monetized installers.
+3. Use this software in any commercial product or paid service.
+4. Remove or hide the original attribution, license, or official source notice.
+5. Claim that your copy is official, endorsed by the game developer, or created
+   by the original author if it is not.
+6. Add malware, spyware, miners, unwanted installers, forced advertisements, or
+   other abusive behavior.
+7. Use this software to enable multiplayer cheating, online cheating, DRM
+   bypass, piracy, or access to paid content without permission.
+
+Source availability under this license does not grant commercial rights.
+
+This software is provided "as is", without warranty of any kind. The authors are
+not responsible for game crashes, save corruption, account issues, security
+software warnings, or any other damage or loss caused by using or modifying this
+software.
+
+If a rights holder for "Diplomacy is Not an Option" requests removal of a public
+distribution, the distributor is expected to comply.
+
